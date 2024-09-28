@@ -1,10 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import meds from './assets/data/medications.json';
 
 export default function App() {
+  const med = meds[0];
+  
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text style={{ fontSize: 20 }}>{med.name}</Text>
+      <Text>{med.type} | {med.dose}</Text>
       <StatusBar style="auto" />
     </View>
   );

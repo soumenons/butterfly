@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Testosterone Cypionate",
+      "type": "Injection",
+      "dose": "50mg - 200mg per week",
+      "purpose": "Masculinization",
+      "tags": ["FTM"],
+      "frequency": "Weekly or Bi-weekly",
+      "description": "A common form of testosterone used to induce masculinizing effects such as deepening of the voice, increased muscle mass, and facial hair growth."
+    },
+    {
+      "name": "Testosterone Enanthate",
+      "type": "Injection",
+      "dose": "50mg - 200mg per week",
+      "purpose": "Masculinization",
+      "tags": ["FTM"],
+      "frequency": "Weekly or Bi-weekly",
+      "description": "Another form of testosterone, similar to cypionate, used in testosterone replacement therapy for masculinizing changes."
+    },
+    {
+      "name": "Testosterone Gel",
+      "type": "Gel",
+      "dose": "2.5g - 10g daily",
+      "purpose": "Masculinization",
+      "tags": ["FTM"],
+      "frequency": "Daily",
+      "description": "A topical gel form of testosterone applied to the skin for gradual absorption, resulting in masculinizing effects over time."
+    },
+    {
+      "name": "Estradiol Valerate",
+      "type": "Injection",
+      "dose": "10mg - 40mg every 2 weeks",
+      "purpose": "Feminization",
+      "tags": ["MTF"],
+      "frequency": "Every 1-2 weeks",
+      "description": "An injectable form of estradiol used to promote feminizing effects such as breast development, fat redistribution, and reduced muscle mass."
+    },
+    {
+      "name": "Estradiol Patch",
+      "type": "Patch",
+      "dose": "0.05mg - 0.1mg per day",
+      "purpose": "Feminization",
+      "tags": ["MTF"],
+      "frequency": "Twice weekly",
+      "description": "A transdermal patch applied to the skin, slowly releasing estradiol to induce feminizing effects."
+    },
+    {
+      "name": "Estradiol Tablets",
+      "type": "Tablet",
+      "dose": "2mg - 6mg daily",
+      "purpose": "Feminization",
+      "tags": ["MTF"],
+      "frequency": "Daily",
+      "description": "Oral form of estradiol used in feminizing hormone therapy for promoting breast growth, softer skin, and other feminizing changes."
+    },
+    {
+      "name": "Spironolactone",
+      "type": "Tablet",
+      "dose": "100mg - 200mg daily",
+      "purpose": "Anti-androgen",
+      "tags": ["MTF"],
+      "frequency": "Daily",
+      "description": "A potassium-sparing diuretic that also serves as an anti-androgen, blocking testosterone effects and aiding in the feminization process."
+    },
+    {
+      "name": "Finasteride",
+      "type": "Tablet",
+      "dose": "1mg - 5mg daily",
+      "purpose": "DHT Blocker",
+      "tags": ["MTF", "FTM"],
+      "frequency": "Daily",
+      "description": "Used to block the conversion of testosterone into dihydrotestosterone (DHT), reducing hair loss in MTF individuals and sometimes prescribed for FTM to address male-pattern hair loss."
+    },
+    {
+      "name": "Progesterone",
+      "type": "Tablet",
+      "dose": "100mg - 200mg daily",
+      "purpose": "Breast Development",
+      "tags": ["MTF"],
+      "frequency": "Daily",
+      "description": "Used in some feminizing hormone regimens to support breast development and other secondary sexual characteristics."
+    },
+    {
+      "name": "Leuprolide Acetate",
+      "type": "Injection",
+      "dose": "3.75mg - 11.25mg monthly",
+      "purpose": "GnRH Agonist",
+      "tags": ["MTF", "FTM"],
+      "frequency": "Monthly",
+      "description": "A GnRH agonist that suppresses the production of testosterone or estrogen, commonly used in both MTF and FTM HRT to delay puberty or suppress hormone production before starting HRT."
+    }
+  ]
