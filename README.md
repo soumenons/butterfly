@@ -8,7 +8,7 @@
   <h3 align="center">butterfly</h3>
 
   <p align="center">
-A HRT tracking assistant.    <br />
+A Hormone Replacement Therapy (HRT) tracking assistant.    <br />
     <a href="https://github.com/soumenons/butterfly"><strong>Explore the docs »</strong></a>
     <br />
     <br />

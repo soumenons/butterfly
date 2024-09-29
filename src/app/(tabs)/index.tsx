@@ -21,7 +21,7 @@ const StartPage = () => {
 return (
     <View style={styles.container}>
     <Text style={styles.greeting}>Good morning!</Text>
-  </View>
+    </View>
 );
     
 //     return (
