@@ -1,6 +1,7 @@
 import { Tabs } from "expo-router"
 import { TabBar } from "../../components/TabBar";
 import { Text } from "react-native";
+import MedLog from '../../components/MedLog';
 
 const TabsLayout = () => {
     return (

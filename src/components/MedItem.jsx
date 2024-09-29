@@ -8,9 +8,10 @@ export default function MedItem({item}) {
       <Text style={styles.medSubtitle}>{item.type} | {item.dose}</Text>
     </View>
     );
-  }
+}
 
-  const styles = StyleSheet.create({
+
+const styles = StyleSheet.create({
     medBlock: {
       backgroundColor: '#E8E0D3',
       padding: 10, 
