@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/soumenons/butterfly">
-    <img src="butterfly\assets\logo\logo.png" alt="Logo" width="80" height="80">
+    <img src="\assets\logo\logo.png" alt="Logo" width="90" height="90">
   </a>
 
   <h3 align="center">butterfly</h3>
