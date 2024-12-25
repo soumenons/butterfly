@@ -19,6 +19,8 @@ A Hormone Replacement Therapy (HRT) tracking assistant.    <br />
 
 A Hormone Replacement Therapy (HRT) medication tracking assistant to provide ease-of-mind, tools for self-advocacy, and celebrations of milestones throughout the entire process.
 
+(🏆 Best Beginner Hack - Technova 2024)
+
 ## 🦋 Why butterfly?
 Trans healthcare is one of the most systemically disregarded and overlooked areas of healthcare. Coupled with the lack of technology aimed to support trans individuals, this leads to a huge discrepancy in trans experiences with healthcare, and HRT specifically. 
 Butterfly aims to be an easy-to-use, discreet application that prioritises not only trans advocacy in healthcare, but equally prioritises celebrating trans joy.
